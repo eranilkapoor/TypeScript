@@ -41,3 +41,4 @@ folder assumes you're already comfortable with the topics in
 ## Next Steps
 Once comfortable with TypeScript, continue to:
 - [ReactJS](../ReactJS/README.md) — many teams write React apps in TypeScript by default
+- [TechnicalArchitect](../TechnicalArchitect/README.md) — enterprise-scale examples throughout that roadmap assume TypeScript
